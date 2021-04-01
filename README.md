@@ -10,8 +10,8 @@ Our goal is to research the best server for the following services. Attention : 
 
 An exemple of services :
 ![image](https://user-images.githubusercontent.com/75336673/113355282-cfe4cb00-9340-11eb-8270-374102961527.png)
-**
-Exemple of our code's output : **
+
+Exemple of our code's output : 
 
 Input_2 :
 ![image](https://user-images.githubusercontent.com/75336673/113355507-2a7e2700-9341-11eb-9477-cc934f1f718f.png)
