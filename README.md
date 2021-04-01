@@ -11,6 +11,9 @@ Our goal is to research the best server for the following services. Attention : 
 An exemple of services :
 ![image](https://user-images.githubusercontent.com/75336673/113355282-cfe4cb00-9340-11eb-8270-374102961527.png)
 
+The mathematical formula to find the best server for a given service :
+![image](https://user-images.githubusercontent.com/75336673/113356353-62399e80-9342-11eb-8cd1-fa3cf2cfba1c.png)
+
 Exemple of our code's output : 
 
 Input_2 :
