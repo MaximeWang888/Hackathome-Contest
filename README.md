@@ -20,7 +20,7 @@ Input_2 :
 ![image](https://user-images.githubusercontent.com/75336673/113355507-2a7e2700-9341-11eb-9477-cc934f1f718f.png)
 
 Output_2 :
-![image](https://user-images.githubusercontent.com/75336673/113506202-aa73df00-9543-11eb-9558-29d7b09d48a1.png)
+![image](https://user-images.githubusercontent.com/75336673/113506213-be1f4580-9543-11eb-9899-39939ca78eff.png)
 
 Thanks to my collaborator @audictheprogrammer.
 
